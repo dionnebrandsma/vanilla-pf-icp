@@ -1,4 +1,4 @@
-Vanilla Particle Filtering-based Iterative Closest Point
+# Vanilla Particle Filtering-based Iterative Closest Point
 
 Python implementation code of iterative closest point via vanilla particle filtering for point set registration. This code is based on the MATLAB implementation of https://github.com/DrGabor/Vanilla_PF_ICP. More details on the theory can be found in [1].
 
